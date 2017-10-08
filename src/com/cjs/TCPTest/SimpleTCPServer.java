@@ -1,47 +1,36 @@
-package com.cjs.socketTest;
+package com.cjs.TCPTest;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-public class SimpleSocketClient {
+public class SimpleTCPServer {
 
 	public static void main(String[] args) {
+		ServerSocket serverSocket = null;
 		Socket socket = null;
 		OutputStream os = null;
 		InputStream is = null;
 		
-		// 服务器ip地址
-		String serverIP = "127.0.0.1";
-		
 		// 端口号
 		int port = 10008;
 		
-		// 发送内容
-		String msg = "Hello~";
+		// 反馈内容
+		//String msg = "I am server！";
 
 		try {
-			// 建立连接
-			socket = new Socket(serverIP, port);
-			
-			// 获得输出流
-			os = socket.getOutputStream();
-			
-			for(int i=0; i<3; i++) {			
-				// 发送数据
-				os.write(msg.getBytes());
-				
-				// 获得输入流
-				is = socket.getInputStream();
-				
-				// 接收数据
-				byte[] bt = new byte[1024];
-				int n = is.read(bt);
-				
-				// 输出反馈数据
-				System.out.println("服务器反馈：" + new String(bt, 0, n));
+			// 创建服务端serverSocket (维修公司前台MM)
+			serverSocket = new ServerSocket(port);
+
+			// 利用线程处理多客户端连接
+			while(true) {
+				// 创建服务端Socket (维修人员)
+				socket = serverSocket.accept();         // 该方法为阻塞方法，只当有请求到来时才会执行。
+
+				new LogicThread(socket);
 			}
 		} catch (UnknownHostException e) {
 			e.printStackTrace();
@@ -55,12 +44,15 @@ public class SimpleSocketClient {
 				os.close();
 				is.close();
 				
-				// 关闭连接
+				// 关闭socket
 				socket.close();
+				
+				// 关闭serverSocket
+				serverSocket.close();
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
 		}
 	}
-
+	
 }
