@@ -27,7 +27,7 @@ class Student {
 class Test {
 	public void test(Object obj) throws ClassNotFoundException, InstantiationException, IllegalAccessException {
 		Class<?> Cls = Class.forName(obj.getClass().getName());
-		Student stu = (Student) Cls.newInstance();
+		Student stu = (Student) Cls.newInstance();    // Student类中需要有无参数的构造方法
 		stu.setName("liqing");
 		System.out.println(stu.getName());
 	}
