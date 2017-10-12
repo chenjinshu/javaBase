@@ -7,7 +7,7 @@ import java.io.IOException;
 public class FileInputStreamTest {
 
 	public static void main(String[] args) {
-		File ifile = new File("G:/EclipseWorkspace/JavaTest/src/com/cjs/streamTest/fileInputStream.txt");
+		File ifile = new File("/Users/chenjinshu/IdeaProjects/javaBase/src/com/cjs/streamTest/fileInputStream.txt");
 		if(ifile.exists()) {
 			try {
 			    FileInputStream fis = new FileInputStream(ifile);
