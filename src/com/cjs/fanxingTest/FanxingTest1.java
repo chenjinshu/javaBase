@@ -2,7 +2,7 @@ package com.cjs.fanxingTest;
 
 public class FanxingTest1 {
 	
-	public static void printNum(Num1<?> number) {
+	public static void printNum(Num1<?> number) {         // 这里的?就是类型实参，而不能看作类型形参
 		System.out.println(number.getNum());
 	}
 
