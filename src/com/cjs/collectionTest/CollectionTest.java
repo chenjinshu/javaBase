@@ -7,7 +7,7 @@ import java.util.List;
 public class CollectionTest {
 
 	public static void main(String[] args) {
-		List<String> list = new ArrayList<String>();
+		List<String> list = new ArrayList<>();
         list.add("cjs");
         list.add("lq");
         list.add("llp");
@@ -15,9 +15,6 @@ public class CollectionTest {
         while(it.hasNext()) {
         	System.out.println(it.next());
         }
-//        for(String str : list) {
-//        	System.out.println(str);
-//        }
 	}
 
 }

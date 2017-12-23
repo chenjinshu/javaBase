@@ -12,5 +12,7 @@ public class ArrayTest {
         Arrays.sort(b);
         System.out.println(Arrays.toString(b));
 
+        String ai = "";
+
     }
 }

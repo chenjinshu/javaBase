@@ -19,7 +19,7 @@ public class FileInputStreamTest {
 				System.out.println("===============================");
 				
 				byte[] bty = new byte[1024];
-				int k = fis.read(bty);
+				int k = fis.read(bty, 0, bty.length);   // 重输入流开头开始读取，最多读取bty数组长度个字节，并将读取内容放入bty数组，返回值是实际读取的i字节数
 				fis.close();
 				System.out.println(k);
 				System.out.println(bty[0]);
