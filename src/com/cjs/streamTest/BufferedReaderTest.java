@@ -7,7 +7,7 @@ import java.io.FileReader;
 public class BufferedReaderTest {
 
 	public static void main(String[] args) {
-		File file = new File("G:/EclipseWorkspace/JavaTest/src/com/cjs/streamTest/bufferedReader.txt");
+		File file = new File("G:/EclipseWorkspace/javaBase/src/com/cjs/streamTest/bufferedReader.txt");
 		try {
 			FileReader reader = new FileReader(file);
 			BufferedReader bfreader = new BufferedReader(reader);
