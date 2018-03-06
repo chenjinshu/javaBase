@@ -1,6 +1,7 @@
 package com.cjs.array;
 
 import java.util.Arrays;
+import java.util.Vector;
 
 public class ArrayTest {
 
@@ -13,6 +14,8 @@ public class ArrayTest {
         System.out.println(Arrays.toString(b));
 
         String ai = "";
-        
+        Vector<String> vector = new Vector<>();
+        vector.add("345");
+        System.out.println(vector.get(0));
     }
 }
