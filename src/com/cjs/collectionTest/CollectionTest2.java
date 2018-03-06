@@ -6,6 +6,10 @@ import java.util.Map;
 public class CollectionTest2 {
 
 	public static void main(String[] args) {
-	    Map<String, String> hapMap = new HashMap<>();
+
+		Map<String, String> hashMap = new HashMap<>();
+		hashMap.put("a", "123");
+		hashMap.put("a", "456");
+		System.out.println(hashMap.get("a"));
 	}
 }
