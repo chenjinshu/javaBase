@@ -1,6 +1,5 @@
 package com.cjs.collectionTest;
 
-import javax.jnlp.IntegrationService;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
