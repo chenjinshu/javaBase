@@ -1,7 +1,6 @@
 package com.cjs.collectionTest;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class CollectionTest2 {
 
