@@ -3,9 +3,9 @@ package com.cjs.threadTest;
 import java.util.concurrent.atomic.AtomicInteger;
 
 // 无锁测试
-public class NoClockTest implements Runnable {
+public class NoLockTest implements Runnable {
 
-    private static NoClockTest nct = new NoClockTest();
+    private static NoLockTest nct = new NoLockTest();
 
     private static Integer a = 0;
 
