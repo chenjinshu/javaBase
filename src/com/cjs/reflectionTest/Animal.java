@@ -11,4 +11,5 @@ public class Animal {
     protected Animal(String name) {}
 
     private Animal(String name, int age) {}
+    
 }
