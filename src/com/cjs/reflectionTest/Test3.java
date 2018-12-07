@@ -14,8 +14,8 @@ public class Test3 {
     }
 
     public static void main(String[] args) {
-        Animal animal = new Animal();
-        Field[] fields = getFields(animal);
+        Dog dog = new Dog();
+        Field[] fields = getFields(dog);
         for(Field field : fields) {
             Class fieldType = field.getType();    // 成员变量的类类型
             System.out.println("成员变量的类型：" + fieldType.getName());
@@ -25,7 +25,7 @@ public class Test3 {
 
         System.out.println("====================");
 
-        fields = getDeclaredFields(animal);
+        fields = getDeclaredFields(dog);
         for(Field field : fields) {
             Class fieldType = field.getType();    // 成员变量的类类型
             System.out.println("成员变量的类型：" + fieldType.getName());

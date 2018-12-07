@@ -1,17 +1,14 @@
 package com.cjs.test;
 
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Collections;
-import java.util.List;
+import java.math.BigDecimal;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.*;
 
 public class Test {
 
-    public static void main(String[] args) {
-    	
-    	List<String> list = Collections.emptyList();
-    	System.out.println(list.size());
-    	
+    public static void main(String[] args) throws ParseException {
+        Dog.say();
     }
 
 }
