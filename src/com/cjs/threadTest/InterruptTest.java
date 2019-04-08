@@ -17,7 +17,7 @@ public class InterruptTest extends Thread {
 	}
 
 	public static void main(String[] args) {
-		Thread t = new Thread(new Runnable(){
+		Thread t = new Thread(new Runnable() {
 			@Override
 			public void run() {
 				try {

@@ -10,7 +10,7 @@ public class SimpleUDPClient {
 		DatagramPacket rdp = null;      // 被发射器接收的数据包对象
 		String serverHost = "127.0.0.1";    // 服务器主机地址
 		int serverPort = 10008;     // 服务器端口号
-		String msg = "I am client!";    // 传输的内容
+		String msg = "hello udp!";    // 传输的内容
 
 		try {
 			// 实例化发射器对象

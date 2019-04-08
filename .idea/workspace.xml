@@ -2,14 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b45aa64-5879-4709-8f61-a3f50ab7f384" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/java8/defaultMethod/GoodsInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/java8/defaultMethod/Test1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/java8/defaultMethod/UserInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/java8/lambda/LambdaTest2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/java8/parallel/Test1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/java8/stream/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/java8/stream/Test1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/classloader/DiskClassLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/classloader/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/classloader/Test1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/classloader/Test2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/jvmTiaoyouTest/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/jvmTiaoyouTest/Test1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/DatagramChannelTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/FileChannelTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/FileChannelTest1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/FileOperatorTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/GatheringWriteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/PipeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/ScatteringReadTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/SelectorTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/SelectorTest1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/SelectorTest2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/SelectorTest3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/ServerSocketChannelTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/SocketChannelTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/SocketChannelTest1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/files/fileOperatorTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/files/from.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/files/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/nioTest/util/FileOperatorUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/suanfa/lianbiao/LinkedListReverseTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/suanfa/lianbiao/LinkedListReverseTest1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/test/Cat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/test/Test1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/threadTest/ThreadTest8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cjs/util/ByteArrayConverterUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/javaBase/com/cjs/UDPTest/SimpleUDPClient.class" afterPath="$PROJECT_DIR$/out/production/javaBase/com/cjs/UDPTest/SimpleUDPClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/javaBase/com/cjs/test/Test.class" afterPath="$PROJECT_DIR$/out/production/javaBase/com/cjs/test/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/javaBase/com/cjs/threadTest/ThreadTest1.class" afterPath="$PROJECT_DIR$/out/production/javaBase/com/cjs/threadTest/ThreadTest1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/javaBase/com/cjs/threadTest/ThreadTest5.class" afterPath="$PROJECT_DIR$/out/production/javaBase/com/cjs/threadTest/ThreadTest5.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/javaBase/com/cjs/streamTest/bufferedOutputStream.txt" afterPath="$PROJECT_DIR$/out/production/javaBase/com/cjs/streamTest/bufferedOutputStream.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/javaBase/com/cjs/streamTest/fileInputStream.txt" afterPath="$PROJECT_DIR$/out/production/javaBase/com/cjs/streamTest/fileInputStream.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/TCPTest/LogicThread.java" afterPath="$PROJECT_DIR$/src/com/cjs/TCPTest/LogicThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/TCPTest/SimpleTCPClient.java" afterPath="$PROJECT_DIR$/src/com/cjs/TCPTest/SimpleTCPClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/TCPTest/SimpleTCPServer.java" afterPath="$PROJECT_DIR$/src/com/cjs/TCPTest/SimpleTCPServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/UDPTest/SimpleUDPClient.java" afterPath="$PROJECT_DIR$/src/com/cjs/UDPTest/SimpleUDPClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/concurrentPackageTest/ReentrantLockTest.java" afterPath="$PROJECT_DIR$/src/com/cjs/concurrentPackageTest/ReentrantLockTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/DecoratorModeTest.java" afterPath="$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/DecoratorModeTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/java8/defaultMethod/Test1.java" afterPath="$PROJECT_DIR$/src/com/cjs/java8/defaultMethod/Test1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/streamTest/FileInputStreamTest.java" afterPath="$PROJECT_DIR$/src/com/cjs/streamTest/FileInputStreamTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/streamTest/bufferedOutputStream.txt" afterPath="$PROJECT_DIR$/src/com/cjs/streamTest/bufferedOutputStream.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/streamTest/fileInputStream.txt" afterPath="$PROJECT_DIR$/src/com/cjs/streamTest/fileInputStream.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/test/Animal.java" afterPath="$PROJECT_DIR$/src/com/cjs/test/Animal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/test/Dog.java" afterPath="$PROJECT_DIR$/src/com/cjs/test/Dog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/test/Test.java" afterPath="$PROJECT_DIR$/src/com/cjs/test/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/threadTest/InterruptTest.java" afterPath="$PROJECT_DIR$/src/com/cjs/threadTest/InterruptTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/threadTest/ThreadTest1.java" afterPath="$PROJECT_DIR$/src/com/cjs/threadTest/ThreadTest1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cjs/threadTest/ThreadTest5.java" afterPath="$PROJECT_DIR$/src/com/cjs/threadTest/ThreadTest5.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,11 +74,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/cjs/java8/parallel/Test1.java">
+      <file leaf-file-name="FileOperatorTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/FileOperatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+            <state relative-caret-position="120">
+              <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileOperatorUtil.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/util/FileOperatorUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,6 +115,9 @@
       <find>add</find>
       <find>hashCode</find>
       <find>put</find>
+      <find>toString</find>
+      <find>App</find>
+      <find>defineCla</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -72,56 +132,56 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/cjs/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/test/Dog.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/observerMode/Observer1.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/observerMode/Observer2.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/observerMode/NewsBroadcast.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/observerMode/ObserverModeTest.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/StrategyMode/IAttackBehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/StrategyMode/IDeffendBehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/StrategyMode/IRunBehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/StrategyMode/AttackXLSBZ.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/StrategyMode/DeffendJZZ.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/StrategyMode/RunJDY.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/StrategyMode/WXGameRole.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/StrategyMode/GameRole.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/StrategyMode/StrategyModeTest.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/calendarTest/CalendarTest.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/AdapterMode/HomePower.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/AdapterMode/MobilePowerAdapter.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/AdapterMode/IPhonePowerProvider.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/AdapterMode/AndroidPowerProvider.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/AdapterMode/AdapterModeTest.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/Command.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/DoorOpenCommand.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/DoorCloseCommand.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/TVOpenCommand.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/TVCloseCommand.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/CommonCommand.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/BlankCommand.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/Remoter.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/CommandModeTest.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/IEquip.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/YTJ.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/TLD.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/YJQ.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/IEquipDecorator.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/BlueGemDecorator.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/BlackGemDecorator.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/RedGemDecorator.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/DecoratorModeTest.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/proxyMode/ProxyModeTest.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/proxyMode/Subject.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/proxyMode/RealSubject.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/proxyMode/ProxyHandler.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/proxyMode/DynamicProxyModeTest.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/java8/defaultMethod/GoodsInterface.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/java8/defaultMethod/UserInterface.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/UDPTest/SimpleUDPServer1.java" />
         <option value="$PROJECT_DIR$/src/com/cjs/java8/defaultMethod/Test1.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/java8/stream/Student.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/java8/lambda/LambdaTest2.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/java8/stream/Test1.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/java8/parallel/Test1.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/concurrentPackageTest/ReentrantLockTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/DecoratorModeTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/threadTest/InterruptTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/threadTest/ThreadTest1.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/threadTest/ThreadTest8.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/threadTest/ThreadTest5.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/UDPTest/SimpleUDPClient.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/proxyMode/DynamicProxyModeTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/util/ByteArrayConverterUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/test/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/inetAddressTest/InetAddressTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/test/Cat.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/testclassloader/Point.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/classloader/Test1.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/classloader/DiskClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/streamTest/FileInputStreamTest.java" />
+        <option value="$PROJECT_DIR$/customClassLoaderClassPath/index.txt" />
+        <option value="$PROJECT_DIR$/src/com/cjs/classloader/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/classloader/Test2.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/jvmTiaoyouTest/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/jvmTiaoyouTest/Test1.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/index.txt" />
+        <option value="$PROJECT_DIR$/src/com/cjs/test/Test1.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/ScatterTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/ScatterReadTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/from.txt" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/GatheringWriteTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/streamTest/fileInputStream.txt" />
+        <option value="$PROJECT_DIR$/src/com/cjs/streamTest/bufferedInputStream.txt" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/FileChannelTest1.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/FileChannelTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/SelectorTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/SelectorTest3.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/TCPTest/SimpleTCPServer.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/TCPTest/SimpleTCPClient.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/TCPTest/LogicThread.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/SocketChannelTest1.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/SelectorTest2.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/SocketChannelTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/SelectorTest1.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/ServerSocketChannelTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/DatagramChannelTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/ScatteringReadTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/PipeTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/filescopy/fileOperatorTest.txt" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/files/fileOperatorTest.txt" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/util/FileOperatorUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/nioTest/FileOperatorTest.java" />
       </list>
     </option>
   </component>
@@ -132,10 +192,29 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="52" />
-    <option name="y" value="23" />
-    <option name="width" value="1388" />
-    <option name="height" value="877" />
+    <option name="x" value="49" />
+    <option name="y" value="33" />
+    <option name="width" value="1371" />
+    <option name="height" value="837" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -155,7 +234,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,31 +256,55 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cjs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaBase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cjs" type="462c0819:PsiDirectoryNode" />
+              <item name="nioTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaBase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cjs" type="462c0819:PsiDirectoryNode" />
+              <item name="nioTest" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/cjs/nioTest/files" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.cjs.designModeTest.DecoratorMode" />
-      <recent name="com.cjs.designModeTest.CommandMode" />
-      <recent name="com.cjs.designModeTest.AdapterMode" />
-      <recent name="com.cjs.designModeTest.observerMode" />
+      <recent name="com.cjs.nioTest" />
+      <recent name="com.cjs.jvmTiaoyouTest" />
+      <recent name="com.cjs.classloader" />
+      <recent name="com.cjs.util" />
+      <recent name="com.cjs.UDPTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/cjs/nioTest/files" />
+      <recent name="$PROJECT_DIR$/customClassLoaderClassPath" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -213,15 +319,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test1 (2)">
-    <configuration name="DynamicProxyModeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.FileOperatorTest">
+    <configuration name="DatagramChannelTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cjs.designModeTest.proxyMode.*" />
+          <option name="PATTERN" value="com.cjs.nioTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cjs.designModeTest.proxyMode.DynamicProxyModeTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cjs.nioTest.DatagramChannelTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -233,14 +339,14 @@
       <module name="javaBase" />
       <envs />
     </configuration>
-    <configuration name="LambdaTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FileOperatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cjs.java8.lambda.*" />
+          <option name="PATTERN" value="com.cjs.nioTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cjs.java8.lambda.LambdaTest2" />
+      <option name="MAIN_CLASS_NAME" value="com.cjs.nioTest.FileOperatorTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -252,14 +358,14 @@
       <module name="javaBase" />
       <envs />
     </configuration>
-    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PipeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cjs.java8.stream.*" />
+          <option name="PATTERN" value="com.cjs.nioTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cjs.java8.stream.Test1" />
+      <option name="MAIN_CLASS_NAME" value="com.cjs.nioTest.PipeTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -271,14 +377,14 @@
       <module name="javaBase" />
       <envs />
     </configuration>
-    <configuration name="Test1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ServerSocketChannelTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cjs.java8.parallel.*" />
+          <option name="PATTERN" value="com.cjs.nioTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cjs.java8.parallel.Test1" />
+      <option name="MAIN_CLASS_NAME" value="com.cjs.nioTest.ServerSocketChannelTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -290,14 +396,14 @@
       <module name="javaBase" />
       <envs />
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SocketChannelTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cjs.java8.defaultMethod.*" />
+          <option name="PATTERN" value="com.cjs.nioTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cjs.java8.defaultMethod.Test1" />
+      <option name="MAIN_CLASS_NAME" value="com.cjs.nioTest.SocketChannelTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -390,22 +496,42 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.DynamicProxyModeTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test1" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test1 (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LambdaTest2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Test1 (2)" />
+    <configuration name="jvmTiaoyouTest" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.cjs.jvmTiaoyouTest.Test" />
+      <option name="VM_PARAMETERS" value="-Xms20m -Xmx20m -XX:PermSize=8m -XX:MaxPermSize=8m" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javaBase" />
+      <envs />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.jvmTiaoyouTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SocketChannelTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ServerSocketChannelTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DatagramChannelTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PipeTest" />
+      <item index="5" class="java.lang.String" itemvalue="Application.FileOperatorTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test1 (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test1 (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LambdaTest2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test1" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DynamicProxyModeTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FileOperatorTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PipeTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DatagramChannelTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ServerSocketChannelTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SocketChannelTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -466,15 +592,33 @@
       <workItem from="1541675370464" duration="3848000" />
       <workItem from="1541993156449" duration="16834000" />
       <workItem from="1543821752361" duration="3260000" />
-      <workItem from="1544800868093" duration="11315000" />
+      <workItem from="1544800868093" duration="26988000" />
+      <workItem from="1545223980465" duration="20542000" />
+      <workItem from="1545977445862" duration="2689000" />
+      <workItem from="1546916385898" duration="7200000" />
+      <workItem from="1547125225662" duration="400000" />
+      <workItem from="1550141196466" duration="797000" />
+      <workItem from="1550216492089" duration="2683000" />
+      <workItem from="1550468342278" duration="12934000" />
+      <workItem from="1550823471366" duration="5834000" />
+      <workItem from="1551233240684" duration="81000" />
+      <workItem from="1551234731045" duration="38183000" />
+      <workItem from="1552649101945" duration="3296000" />
+      <workItem from="1553738987659" duration="3698000" />
+      <workItem from="1553842109802" duration="16673000" />
+      <workItem from="1553928120455" duration="942000" />
+      <workItem from="1554029930037" duration="27014000" />
+      <workItem from="1554174126260" duration="25243000" />
+      <workItem from="1554685869517" duration="514000" />
+      <workItem from="1554687349290" duration="15275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123977000" />
+    <option name="totallyTimeSpent" value="323648000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="23" width="1388" height="877" extended-state="0" />
+    <frame x="49" y="33" width="1371" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -485,14 +629,14 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32684284" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32684284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24814264" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25206923" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32684284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -506,6 +650,36 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912332" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3992095" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912332" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962853" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -515,411 +689,397 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/AdapterMode/AndroidPowerProvider.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Set.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        <state relative-caret-position="191">
+          <caret line="129" column="7" lean-forward="true" selection-start-line="129" selection-start-column="7" selection-end-line="129" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/AdapterMode/MobilePowerAdapter.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/net/InetSocketAddress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        <state relative-caret-position="276">
+          <caret line="186" column="21" lean-forward="true" selection-start-line="186" selection-start-column="21" selection-end-line="186" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/concurrentPackageTest/ReentrantLockTest.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/io/RandomAccessFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        <state relative-caret-position="201">
+          <caret line="118" column="19" lean-forward="true" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/AdapterMode/AdapterModeTest.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/net/SocketImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="88" lean-forward="true" selection-start-line="9" selection-start-column="88" selection-end-line="9" selection-end-column="88" />
+        <state relative-caret-position="231">
+          <caret line="149" column="35" lean-forward="false" selection-start-line="149" selection-start-column="35" selection-end-line="149" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/TCPTest/LogicThread.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/net/Socket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="419">
+          <caret line="913" column="39" lean-forward="true" selection-start-line="913" selection-start-column="36" selection-end-line="913" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/TCPTest/SimpleTCPServer.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/net/AbstractPlainSocketImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+        <state relative-caret-position="336">
+          <caret line="424" column="52" lean-forward="true" selection-start-line="424" selection-start-column="52" selection-end-line="424" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/net/SocketInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="60" column="40" lean-forward="true" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="161" column="24" lean-forward="true" selection-start-line="161" selection-start-column="24" selection-end-line="161" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/channels/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="55" column="44" lean-forward="true" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/channels/ServerSocketChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-382">
+          <caret line="105" column="7" lean-forward="true" selection-start-line="105" selection-start-column="7" selection-end-line="105" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/FileChannelTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/GatheringWriteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/SelectionKeyImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/channels/Selector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="274" column="38" lean-forward="false" selection-start-line="274" selection-start-column="38" selection-end-line="274" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/SelectorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/channels/SelectionKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="110" column="0" lean-forward="true" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cjs/TCPTest/SimpleTCPClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="326">
+          <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/Command.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/UDPTest/SimpleUDPClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="167">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/DoorOpenCommand.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="220">
+          <caret line="583" column="6" lean-forward="true" selection-start-line="583" selection-start-column="6" selection-end-line="583" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/DoorCloseCommand.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/SocketChannelImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="-714">
+          <caret line="402" column="15" lean-forward="false" selection-start-line="402" selection-start-column="15" selection-end-line="402" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/TVOpenCommand.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/channels/FileChannel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/TVCloseCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/BlankCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/QuickCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/Remoter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/CommandMode/CommandModeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="15" column="50" lean-forward="true" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/YJQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/TLD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/IEquip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/IEquipDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/YTJ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/BlueGemDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/BlackGemDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/RedGemDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/DecoratorMode/DecoratorModeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/proxyMode/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="183">
+          <caret line="349" column="7" lean-forward="true" selection-start-line="349" selection-start-column="7" selection-end-line="349" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Shutdown.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/channels/SocketChannel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        <state relative-caret-position="198">
+          <caret line="490" column="13" lean-forward="false" selection-start-line="490" selection-start-column="13" selection-end-line="490" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/reflect/WeakCache.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/Buffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="302" column="36" lean-forward="false" selection-start-line="302" selection-start-column="36" selection-end-line="302" selection-end-column="36" />
+        <state relative-caret-position="228">
+          <caret line="360" column="5" lean-forward="true" selection-start-line="360" selection-start-column="5" selection-end-line="360" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/proxyMode/RealSubject.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/TCPTest/LogicThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#240#241#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="322">
+          <caret line="39" column="41" lean-forward="true" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/TCPTest/SimpleTCPServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="707" column="34" lean-forward="true" selection-start-line="707" selection-start-column="34" selection-end-line="707" selection-end-column="34" />
+        <state relative-caret-position="-10">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/proxyMode/ProxyHandler.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/channels/NetworkChannel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="64" lean-forward="true" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+        <state relative-caret-position="153">
+          <caret line="86" column="19" lean-forward="false" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/SocketChannelTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/SelectorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237">
+          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/SelectorTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/SocketChannelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/SelectorTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-658">
+          <caret line="15" column="66" lean-forward="false" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/ServerSocketChannelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="28" column="58" lean-forward="true" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/UDPTest/LogicThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/UDPTest/SimpleUDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/DatagramChannelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/SelectorTest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="36" column="55" lean-forward="true" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/PipeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/designModeTest/proxyMode/DynamicProxyModeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/ScatteringReadTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/java8/lambda/LambdaTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/java8/lambda/LambdaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/java8/defaultMethod/UserInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#194#195#0" expanded="false" />
-            <element signature="e#246#247#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/java8/defaultMethod/GoodsInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="e#154#155#0" expanded="false" />
-            <element signature="e#201#202#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/java8/defaultMethod/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-          <folding>
-            <element signature="e#211#212#0" expanded="false" />
-            <element signature="e#273#274#0" expanded="false" />
-            <element signature="e#319#320#0" expanded="false" />
-            <element signature="e#367#368#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/java8/stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/BaseStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="62" column="3" lean-forward="true" selection-start-line="62" selection-start-column="3" selection-end-line="62" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="579" column="16" lean-forward="false" selection-start-line="579" selection-start-column="16" selection-end-line="579" selection-end-column="16" />
-          <folding>
-            <element signature="e#26957#26958#0" expanded="false" />
-            <element signature="e#27022#27023#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18058">
-          <caret line="231" column="42" lean-forward="true" selection-start-line="231" selection-start-column="42" selection-end-line="231" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="184" column="0" lean-forward="true" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/java8/lambda/LambdaTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15287">
-          <caret line="57" column="36" lean-forward="true" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+        <state relative-caret-position="295">
+          <caret line="32" column="35" lean-forward="false" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="109" column="29" lean-forward="true" selection-start-line="109" selection-start-column="29" selection-end-line="109" selection-end-column="29" />
+        <state relative-caret-position="168">
+          <caret line="713" column="22" lean-forward="true" selection-start-line="713" selection-start-column="22" selection-end-line="713" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/java8/stream/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/FileChannelTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="185">
+          <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/file/attribute/PosixFilePermissions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1715">
+          <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/file/attribute/PosixFilePermission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="37" column="33" lean-forward="true" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/file/CopyOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="43" column="29" lean-forward="true" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="218" column="40" lean-forward="false" selection-start-line="218" selection-start-column="40" selection-end-line="218" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="658" column="9" lean-forward="true" selection-start-line="658" selection-start-column="9" selection-end-line="658" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="1394" column="51" lean-forward="true" selection-start-line="1394" selection-start-column="51" selection-end-line="1394" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/file/StandardCopyOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/filescopy/fileOperatorTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/files/fileOperatorTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/FileOperatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
           <folding>
-            <element signature="e#308#309#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/util/FileOperatorUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="492" column="9" lean-forward="true" selection-start-line="492" selection-start-column="9" selection-end-line="492" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/java8/stream/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadLocalRandom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="224" column="5" lean-forward="true" selection-start-line="224" selection-start-column="5" selection-end-line="224" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="742" column="31" lean-forward="true" selection-start-line="742" selection-start-column="31" selection-end-line="742" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/java8/parallel/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        <state relative-caret-position="91">
+          <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

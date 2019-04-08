@@ -10,7 +10,7 @@ public class ReentrantLockTest implements Runnable {
 
     @Override
     public void run () {
-        for(int k=0; k<10000000; k++) {
+        for(int k = 0; k < 10000000; k++) {
             reentrantLock.lock();   // 加锁
             try {
                 i++;

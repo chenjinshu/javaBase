@@ -1,0 +1,2 @@
+Hello~ Welcome To FileChannel!
+Let us begin the nio jurney~

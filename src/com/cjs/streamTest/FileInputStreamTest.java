@@ -8,7 +8,7 @@ public class FileInputStreamTest {
 
 	public static void main(String[] args) {
 		File ifile = new File("/Users/chenjinshu/IdeaProjects/javaBase/src/com/cjs/streamTest/fileInputStream.txt");
-		if(ifile.exists()) {
+		if (ifile.exists()) {
 			try {
 			    FileInputStream fis = new FileInputStream(ifile);
 //			    int c;
@@ -19,7 +19,7 @@ public class FileInputStreamTest {
 				System.out.println("===============================");
 				
 				byte[] bty = new byte[1024];
-				int k = fis.read(bty, 0, bty.length);   // 重输入流开头开始读取，最多读取bty数组长度个字节，并将读取内容放入bty数组，返回值是实际读取的i字节数
+				int k = fis.read(bty, 0, bty.length);   // 从输入流开头开始读取，最多读取bty数组长度个字节，并将读取内容放入bty数组，返回值是实际读取的i字节数
 				fis.close();
 				System.out.println(k);
 				System.out.println(bty[0]);

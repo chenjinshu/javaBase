@@ -1,10 +1,8 @@
 package com.cjs.test;
 
-public interface Animal {
-
-    void say();
-
-    default void eat() {
-        System.out.println("i am eating!");
-    }
+/**
+ * @author chen.jinshu (青禾)
+ * 2018/12/19
+ */
+public class Animal {
 }

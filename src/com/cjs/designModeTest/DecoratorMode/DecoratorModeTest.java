@@ -1,6 +1,7 @@
 package com.cjs.designModeTest.DecoratorMode;
 
 /**
+ * 装饰器模式
  * @author chen.jinshu
  * 2018/11/16
  */

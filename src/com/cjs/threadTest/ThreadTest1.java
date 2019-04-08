@@ -11,7 +11,8 @@ public class ThreadTest1 implements Runnable {
 	public ThreadTest1(String threadName) {
 		this.threadName = threadName;
 	}
-	
+
+	@Override
 	public void run() {
 		for(int i=0; i<5; i++) {
 			System.out.println(this.threadName + "线程正在打印" + i);

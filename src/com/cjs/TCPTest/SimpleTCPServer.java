@@ -28,7 +28,7 @@ public class SimpleTCPServer {
 			// 利用线程处理多客户端连接
 			while(true) {
 				// 创建服务端Socket (维修人员)
-				socket = serverSocket.accept();         // 该方法为阻塞方法，只当有请求到来时才会执行。
+				socket = serverSocket.accept();         // 该方法为阻塞方法，只当有连接请求时才会执行。（也就是client中的socket = new Socket(serverIP, port)）
 
 				new LogicThread(socket);
 			}

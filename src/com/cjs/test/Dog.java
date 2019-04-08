@@ -1,12 +1,9 @@
 package com.cjs.test;
 
 /**
- * @author chen.jinshu
- * 2018/10/14
+ * @author chen.jinshu (青禾)
+ * 2018/12/19
  */
-public class Dog {
+public class Dog extends Animal {
 
-    public static void say() {
-
-    }
 }

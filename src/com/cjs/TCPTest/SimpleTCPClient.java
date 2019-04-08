@@ -28,18 +28,18 @@ public class SimpleTCPClient {
 			
 			// 获得输出流
 			os = socket.getOutputStream();
-			
+
 			for(int i=0; i<3; i++) {     // 复用socket
 				// 发送数据
 				os.write(msg.getBytes());
-				
+
 				// 获得输入流
 				is = socket.getInputStream();
-				
+
 				// 接收数据
 				byte[] bt = new byte[1024];
 				int n = is.read(bt);
-				
+
 				// 输出反馈数据
 				System.out.println("服务器反馈：" + new String(bt, 0, n));
 			}

@@ -4,7 +4,7 @@ package com.cjs.java8.defaultMethod;
  * @author chen.jinshu (青禾)
  * 2018/12/14
  */
-public class Test1 implements UserInterface, GoodsInterface{
+public class Test1 implements UserInterface, GoodsInterface {
 
     @Override
     public void getUserDetail(String userName) {
