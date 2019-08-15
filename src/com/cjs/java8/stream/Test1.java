@@ -13,9 +13,9 @@ public class Test1 {
 
     public static void main(String[] args) {
         // 分组(获取某个pojo集合的某个字段的合集)
-        Student student1 = new Student("cjs", 24);
-        Student student2 = new Student("hqt", 23);
-        Student student3 = new Student("sq", 24);
+        Student student1 = new Student("cjs", "", 24);
+        Student student2 = new Student("hqt", "", 23);
+        Student student3 = new Student("sq","", 24);
         List<Student> studentList = Arrays.asList(student1, student2, student3);
 //        List<String> nameList = studentList.stream().map(Student::getName).distinct().collect(Collectors.toList());
 //        List<Integer> ageList = studentList.stream().map(Student::getAge).distinct().collect(Collectors.toList());
@@ -25,7 +25,6 @@ public class Test1 {
 
         List<Integer> result = getPropertyValueList(studentList, "name");
         System.out.println(result);
-        //
     }
 
     private static <T, R> List<R> getPropertyValueList(List<T> sourceList, String propertyName) {
