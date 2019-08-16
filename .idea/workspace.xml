@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b45aa64-5879-4709-8f61-a3f50ab7f384" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cjs/array/ArraysAsListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cjs/deadlock/DeadlockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cjs/java8/stream/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cjs/leetcode/add_two_number/AddTwoNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cjs/leetcode/add_two_number/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cjs/leetcode/length_of_longest_substring/LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cjs/leetcode/length_of_longest_substring/LengthOfLongestSubstring1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBase/com/cjs/nioTest/filescopy/fileOperatorTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cjs/java8/stream/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cjs/java8/stream/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cjs/java8/stream/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cjs/java8/stream/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cjs/test/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cjs/test/Test1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +33,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/cjs/deadlock/DeadlockDemo.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cjs/leetcode/add_two_number/AddTwoNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" column="89" lean-forward="true" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
+            <state relative-caret-position="374">
+              <caret line="50" column="42" lean-forward="true" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cjs/leetcode/length_of_longest_substring/LengthOfLongestSubstring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cjs/leetcode/length_of_longest_substring/LengthOfLongestSubstring1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="674">
+              <caret line="44" column="97" lean-forward="true" selection-start-line="44" selection-start-column="97" selection-end-line="44" selection-end-column="97" />
             </state>
           </provider>
         </entry>
@@ -78,12 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/cjs/threadTest/ThreadTest8.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/threadTest/ThreadTest5.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/UDPTest/SimpleUDPClient.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/designModeTest/proxyMode/DynamicProxyModeTest.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/util/ByteArrayConverterUtils.java" />
-        <option value="$PROJECT_DIR$/src/com/cjs/test/Dog.java" />
         <option value="$PROJECT_DIR$/src/com/cjs/inetAddressTest/InetAddressTest.java" />
         <option value="$PROJECT_DIR$/src/com/cjs/test/Cat.java" />
         <option value="$PROJECT_DIR$/src/com/cjs/testclassloader/Point.java" />
@@ -129,6 +140,12 @@
         <option value="$PROJECT_DIR$/src/com/cjs/test/Test1.java" />
         <option value="$PROJECT_DIR$/src/com/cjs/deadlock/DeadlockDemo.java" />
         <option value="$PROJECT_DIR$/../toBeTopJavaer/basics/java-basic/integer-cache.md" />
+        <option value="$PROJECT_DIR$/src/com/cjs/leetcode/AddTwoNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/leetcode/addtwonumber/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/leetcode/addtwonumber/AddTwoNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/leetcode/add_two_number/AddTwoNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/leetcode/length_of_longest_substring/LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/com/cjs/leetcode/length_of_longest_substring/LengthOfLongestSubstring1.java" />
       </list>
     </option>
   </component>
@@ -165,8 +182,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,7 +207,15 @@
               <item name="javaBase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cjs" type="462c0819:PsiDirectoryNode" />
-              <item name="deadlock" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaBase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cjs" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="length_of_longest_substring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
@@ -214,19 +239,19 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/cjs/nioTest/files" />
+      <recent name="$PROJECT_DIR$/customClassLoaderClassPath" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cjs.leetcode.length_of_longest_substring" />
       <recent name="com.cjs.nioTest" />
       <recent name="com.cjs.jvmTiaoyouTest" />
       <recent name="com.cjs.classloader" />
       <recent name="com.cjs.util" />
-      <recent name="com.cjs.UDPTest" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/cjs/nioTest/files" />
-      <recent name="$PROJECT_DIR$/customClassLoaderClassPath" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,9 +266,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeadlockDemo">
+  <component name="RunManager" selected="Application.LengthOfLongestSubstring1">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cjs.leetcode.add_two_number.AddTwoNumber" />
+      <module name="javaBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cjs.leetcode.add_two_number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -262,13 +301,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DynamicProxyModeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cjs.designModeTest.proxyMode.DynamicProxyModeTest" />
+    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cjs.leetcode.length_of_longest_substring.LengthOfLongestSubstring" />
       <module name="javaBase" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cjs.designModeTest.proxyMode.*" />
+          <option name="PATTERN" value="com.cjs.leetcode.length_of_longest_substring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LengthOfLongestSubstring1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cjs.leetcode.length_of_longest_substring.LengthOfLongestSubstring1" />
+      <module name="javaBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cjs.leetcode.length_of_longest_substring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,34 +336,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cjs.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cjs.java8.parallel.Test1" />
-      <module name="javaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cjs.java8.parallel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cjs.java8.stream.Test2" />
-      <module name="javaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cjs.java8.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,19 +385,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.jvmTiaoyouTest" />
-      <item itemvalue="Application.Test1" />
-      <item itemvalue="Application.Test2" />
-      <item itemvalue="Application.DynamicProxyModeTest" />
       <item itemvalue="Application.Test1 (1)" />
       <item itemvalue="Application.DeadlockDemo" />
+      <item itemvalue="Application.AddTwoNumber" />
+      <item itemvalue="Application.LengthOfLongestSubstring" />
+      <item itemvalue="Application.LengthOfLongestSubstring1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LengthOfLongestSubstring1" />
+        <item itemvalue="Application.LengthOfLongestSubstring" />
+        <item itemvalue="Application.AddTwoNumber" />
         <item itemvalue="Application.DeadlockDemo" />
         <item itemvalue="Application.Test1 (1)" />
-        <item itemvalue="Application.DynamicProxyModeTest" />
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -462,17 +487,18 @@
       <workItem from="1563862450387" duration="1662000" />
       <workItem from="1565081844781" duration="70000" />
       <workItem from="1565749217731" duration="15927000" />
+      <workItem from="1565917179757" duration="21230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="341307000" />
+    <option name="totallyTimeSpent" value="362537000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18230277" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18443497" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -484,7 +510,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32684284" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3264642" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3992095" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -543,55 +569,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/classloader/DiskClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/concurrentPackageTest/ReentrantLockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/nioTest/util/FileOperatorUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-406">
-          <caret line="21" column="73" lean-forward="true" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/java8/stream/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cjs/java8/stream/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="183" column="18" selection-start-line="183" selection-start-column="18" selection-end-line="183" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/stream/Collectors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1005,8 +982,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cjs/deadlock/DeadlockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="89" lean-forward="true" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
+        <state relative-caret-position="22">
+          <caret line="22" column="89" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/leetcode/add_two_number/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/leetcode/add_two_number/AddTwoNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="50" column="42" lean-forward="true" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="1251" column="32" lean-forward="true" selection-start-line="1251" selection-start-column="32" selection-end-line="1251" selection-end-column="32" />
+          <folding>
+            <element signature="e#49043#49044#0" expanded="true" />
+            <element signature="e#49082#49083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/leetcode/length_of_longest_substring/LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cjs/leetcode/length_of_longest_substring/LengthOfLongestSubstring1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="44" column="97" lean-forward="true" selection-start-line="44" selection-start-column="97" selection-end-line="44" selection-end-column="97" />
         </state>
       </provider>
     </entry>
