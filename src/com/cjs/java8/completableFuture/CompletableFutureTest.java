@@ -14,8 +14,8 @@ public class CompletableFutureTest {
       } catch (Exception e) {
 
       }
-      throw new RuntimeException("出错啦");
-//      return "ck9";
+//      throw new RuntimeException("出错啦");
+      return "ck9";
    }
 
    private void test() {
