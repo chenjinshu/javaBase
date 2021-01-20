@@ -13,6 +13,6 @@ public class ArraysAsListTest {
 
         List<String> list1 = new ArrayList<>(Arrays.asList("cjs", "lq"));         // 通过new ArrayList转换为标准的ArrayList则不会报错
         list1.add("hqt");
-        System.out.println(list1);
+//        System.out.println(list1);
     }
 }
