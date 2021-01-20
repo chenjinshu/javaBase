@@ -28,6 +28,6 @@ public class ArrayTest {
         String ai = "";
         Vector<String> vector = new Vector<>();
         vector.add("345");
-        System.out.println(vector.get(0));
+//        System.out.println(vector.get(0));
     }
 }
